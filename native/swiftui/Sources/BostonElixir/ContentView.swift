@@ -5,6 +5,7 @@
 
 import SwiftUI
 import LiveViewNative
+import LiveViewNativeMapKit
 
 struct ContentView: View {
     var body: some View {
