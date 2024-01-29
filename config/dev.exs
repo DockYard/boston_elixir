@@ -74,4 +74,4 @@ config :swoosh, :api_client, false
 # LVN - Optional to enable annotations and pretty printing in dev mode
 config :live_view_native_stylesheet,
   annotations: true,
-  pretty: true 
+  pretty: true
